@@ -1,4 +1,4 @@
-# P2P-Chat
+# CourseQuery
 
 This project is a simple client-server application that allows clients to query a server for course names using either TCP or UDP protocols. The server searches for the course number in a text file and returns the stored course name or an error message if the course number is not found.
 
